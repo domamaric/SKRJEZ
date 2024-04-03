@@ -31,7 +31,7 @@ The structure is as follows:
     - zadatak2.sh
     ...
 - docs
-  - bash
+  - bash/
     - Labos1_2024.pdf
     - Unix-shell-programming.pdf
     ...
