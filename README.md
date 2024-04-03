@@ -23,19 +23,19 @@ The repository is organized into directories corresponding to each scripting lan
 The structure is as follows:
 ```
 - lab	
-	- bash/
-	  - exam/
-	    - zadatak2_izlazni_test.sh
-	    - localhost_access_log.2008-02-24.txt
-	  - zadatak1.sh
-	  - zadatak2.sh
-	...
+  - bash/
+    - exam/
+      - zadatak2_izlazni_test.sh
+      - localhost_access_log.2008-02-24.txt
+    - zadatak1.sh
+    - zadatak2.sh
+    ...
 - docs
-	- bash
-		- Labos1_2024.pdf
-		- Unix-shell-programming.pdf
-	...
-  ```
+  - bash
+    - Labos1_2024.pdf
+    - Unix-shell-programming.pdf
+    ...
+```
 
 `Docs` folder contains task information for each laboratory exercise and/or some useful script for efficient study on specific subject. `Lab` folder contains homework solutions for Bash, Perl and Python exercises as well as `exam` folder which contains solution for oral examination part of laboratory exercise.
 
