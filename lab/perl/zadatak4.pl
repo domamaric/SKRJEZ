@@ -31,6 +31,8 @@ if ( @ARGV == 0 ) {
             print "$jmbag $surname $name - PROBLEM: @parts[0] @parts[1] -> $submitted\n";
         }
     }
+
+    close $fp;
 }
 
 sub timestamp_diff {
