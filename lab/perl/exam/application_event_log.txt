@@ -1,0 +1,31 @@
+﻿Level	Date and Time	Source	Event ID	Task Category
+Error	9.5.2013. 10:29:00	Report Server Windows Service (SQLR2)	107	Management	Report Server Windows Service (SQLR2) cannot connect to the report server database.
+Error	9.5.2013. 10:28:57	Report Server Windows Service (SQLR2)	107	Management	Report Server Windows Service (SQLR2) cannot connect to the report server database.
+Error	9.5.2013. 9:08:36	Microsoft-Windows-Defrag	258	None	The disk defragmenter successfully completed defragmentation on \\?\Volume{64c4f355-a06a-11e1-86e7-806e6f6e6963}\
+Information	10.5.2013. 8:25:21	Windows Error Reporting	1001	None	"Fault bucket 1946324623, type 5
+Warning	9.5.2013. 8:25:04	Internet Explorer 8 Startup Reporting	1001	None	"Fault bucket , type 0
+Information	9.5.2013. 8:25:04	Chrome Report Engine	1001	None	"Fault bucket , type 0
+Error	10.5.2013. 10:29:00	Report Server Windows Service (SQLR2)	107	Management	Report Server Windows Service (SQLR2) cannot connect to the report server database.
+Information	9.5.2013. 8:15:13	Windows Error Reporting	1001	None	"Fault bucket 3433144111, type 5
+Information	9.5.2013. 8:15:12	Internet Explorer 8 Startup Reporting	1001	None	"Fault bucket 3568120217, type 5
+Error	10.5.2013. 10:29:00	Report Server Windows Service (SQLR2)	107	Management	Report Server Windows Service (SQLR2) cannot connect to the report server database.
+Information	9.5.2013. 8:15:11	Windows Error Reporting	1001	None	"Fault bucket 3498954754, type 5
+Error	9.5.2013. 8:15:11	Windows Error Reporting	1001	None	"Fault bucket 3478351210, type 5
+Information	9.5.2013. 8:15:11	Chrome Report Engine	1001	None	"Fault bucket 3370976229, type 5
+Error	9.5.2013. 10:29:00	Report Server Windows Service (SQLR2)	107	Management	Report Server Windows Service (SQLR2) cannot connect to the report server database.
+Information	9.5.2013. 8:15:11	Windows Error Reporting	1001	None	"Fault bucket 3568119963, type 5
+Information	9.5.2013. 8:15:11	Windows Error Reporting	1001	None	"Fault bucket 3433143983, type 5
+Warning	9.5.2013. 8:15:11	Internet Explorer 8 Startup Reporting	1001	None	"Fault bucket 3370976231, type 5
+Information	9.5.2013. 8:15:11	Windows Error Reporting	1001	None	"Fault bucket 3290924375, type 5
+Warning	9.5.2013. 8:15:10	Internet Explorer 8 Startup Reporting	1001	None	"Fault bucket 3519140734, type 5
+Information	9.5.2013. 8:15:10	Chrome Report Engine	1001	None	"Fault bucket 3478330384, type 5
+Error	9.5.2013. 8:15:10	Windows Error Reporting	1001	None	"Fault bucket 3478330391, type 5
+Information	9.5.2013. 8:15:10	Windows Error Reporting	1001	None	"Fault bucket 3593420390, type 5
+Information	9.5.2013. 9:15:10	Windows Error Reporting	1001	None	"Fault bucket 3433161327, type 5
+Warning	9.5.2013. 10:17:10	Chrome Report Engine	1001	None	"Fault bucket 3433149329, type 5
+Information	9.5.2013. 8:15:10	Windows Error Reporting	1001	None	"Fault bucket 3370982485, type 5
+Error	9.5.2013. 8:15:10	Windows Error Reporting	1001	None	"Fault bucket 3370982637, type 5
+Warning	9.5.2013. 8:15:09	Windows Error Reporting	1001	None	"Fault bucket 3370980240, type 5
+Information	9.5.2013. 8:15:09	Windows Error Reporting	1001	None	"Fault bucket 3519161488, type 5
+Error	9.5.2013. 8:15:09	Chrome Report Engine	1001	None	"Fault bucket 3401091840, type 5
+Information	9.5.2013. 8:15:09	Chrome Report Engine	1001	None	"Fault bucket 3327313096, type 5
