@@ -54,5 +54,4 @@ if __name__ == "__main__":
 
     filepath = pathlib.Path(sys.argv[1])
     results, labs, students = load_lab_results(filepath)
-    breakpoint()
     print_results(students, results, labs)
